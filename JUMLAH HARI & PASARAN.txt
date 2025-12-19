@@ -1,0 +1,326 @@
+=== SHEET: NAMA TAHUN JOWO ===
+TAHUN JAWA  NaN     NaN  NaN  NaN  NaN  NaN     NaN
+       NaN  NaN     NaN  NaN  NaN  NaN  NaN     NaN
+      ALIF   HE JIMAWAL   JE  DAL   BE  WAU JEMAKIR
+      1894 1895    1896 1897 1898 1899 1900    1901
+      1902 1903    1904 1905 1906 1907 1908    1909
+      1910 1911    1912 1913 1914 1915 1916    1917
+      1918 1919    1920 1921 1922 1923 1924    1925
+      1926 1927    1928 1929 1930 1931 1932    1933
+      1934 1935    1936 1937 1938 1939 1940    1941
+      1942 1943    1944 1945 1946 1947 1948    1949
+      1950 1951    1952 1953 1954 1955 1956    1957
+      1958 1959    1960 1961 1962 1963 1964    1965
+      1966 1967    1968 1969 1970 1971 1972    1973
+      1974 1975    1976 1977 1978 1979 1980    1981
+      1982 1983    1984 1985 1986 1987 1988    1989
+      1990 1991    1992 1993 1994 1995 1996    1997
+      1998 1999    2000 2001 2002 2003 2004    2005
+      2006 2007    2008 2009 2010 2011 2012    2013
+      2014 2015    2016 2017 2018 2019 2020    2021
+      2022 2023    2024 2025 2026 2027 2028    2029
+      2030 2031    2032 2033 2034 2035 2036    2037
+      2038 2039    2040 2041 2042 2043 2044    2045
+      2046 2047    2048 2049 2050 2051 2052    2053
+      2054 2055    2056 2057 2058 2059 2060    2061
+      2062 2063    2064 2065 2066 2067 2068    2069
+      2070 2071    2072 2073 2074 2075 2076    2077
+      2078 2079    2080 2081 2082 2083 2084    2085
+      2086 2087    2088 2089 2090 2091 2092    2093
+      2094 2095    2096 2097 2098 2099 2100    2101
+      2102 2103    2104 2105 2106 2107 2108    2109
+      2110 2111    2112 2113 2114 2115 2116    2117
+      2118 2119    2120 2121 2122 2123 2124    2125
+      2126 2127    2128 2129 2130 2131 2132    2133
+      2134 2135    2136 2137 2138 2139 2140    2141
+      2142 2143    2144 2145 2146 2147 2148    2149
+      2150 2151    2152 2153 2154 2155 2156    2157
+      2158 2159    2160 2161 2162 2163 2164    2165
+      2166 2167    2168 2169 2170 2171 2172    2173
+      2174 2175    2176 2177 2178 2179 2180    2181
+      2182 2183    2184 2185 2186 2187 2188    2189
+      2190 2191    2192 2193 2194 2195 2196    2197
+      2198 2199    2200 2201 2202 2203 2204    2205
+
+=== SHEET: TAHUN JAWA DAN BULAN ===
+TAHUN JAWA DAN JATUHNYA BULAN            NaN NaN                       NaN            NaN NaN                           NaN            NaN NaN                           NaN            NaN
+                          NaN            NaN NaN                       NaN            NaN NaN                           NaN            NaN NaN                           NaN            NaN
+                      1. ALIF            NaN NaN                    2. HE             NaN NaN                   3. JIMAWAL             NaN NaN                         4. JE            NaN
+     (ABOGE : Alif Rabo Wage)            NaN NaN  (HEHADPON : He Ahad Pon)            NaN NaN    (JIMAHPON : Jim Jumat Pon)            NaN NaN  (JISAING : Je Seloso Pahing)            NaN
+                        BULAN JATUHNYA BULAN NaN                     BULAN JATUHNYA BULAN NaN                         BULAN JATUHNYA BULAN NaN                         BULAN JATUHNYA BULAN
+                         Suro      Rabu Wage NaN                      Suro     Minggu Pon NaN                          Suro     Jum'at Pon NaN                          Suro  Selasa Pahing
+                        Sapar    Jum'at Wage NaN                     Sapar     Selasa Pon NaN                         Sapar     Minggu Pon NaN                         Sapar   Kamis Pahing
+                        Mulud      Sabtu Pon NaN                     Mulud    Rabu Pahing NaN                         Mulud   Senin Pahing NaN                         Mulud    Jum'at Legi
+                  Bakda Mulut      Senin Pon NaN               Bakda Mulut  Jum'at Pahing NaN                   Bakda Mulut    Rabu Pahing NaN                   Bakda Mulut    Minggu Legi
+                 Jumadil Awal  Selasa Pahing NaN              Jumadil Awal     Sabtu Legi NaN                  Jumadil Awal     Kamis Legi NaN                  Jumadil Awal   Senin Kliwon
+                Jumadil Akhir    Kamis Paing NaN             Jumadil Akhir     Senin Legi NaN                 Jumadil Akhir     Sabtu Legi NaN                 Jumadil Akhir    Rabu Kliwon
+                       Redjeb    Jum'at Legi NaN                    Redjeb  Selasa Kliwon NaN                        Redjeb  Minggu Kliwon NaN                        Redjeb     Kamis Wage
+                        Ruwah    Minggu Legi NaN                     Ruwah   Kamis Kliwon NaN                         Ruwah  Selasa Kliwon NaN                         Ruwah     Sabtu Wage
+                         Poso   Senin Kliwon NaN                      Poso    Jum'at Wage NaN                          Poso      Rabu Wage NaN                          Poso     Minggu Pon
+                       Syawal    Rabu Kliwon NaN                    Syawal    Minggu Wage NaN                        Syawal    Jum'at Wage NaN                        Syawal     Selasa Pon
+                         Selo     Kamis Wage NaN                      Selo      Senin Pon NaN                          Selo      Sabtu Pon NaN                          Selo    Rabu Pahing
+                        Besar     Sabtu Wage NaN                     Besar       Rabu Pon NaN                         Besar      Senin Pon NaN                         Besar  Jum'at Pahing
+                          NaN            NaN NaN                       NaN            NaN NaN                           NaN            NaN NaN                           NaN            NaN
+                          NaN            NaN NaN                       NaN            NaN NaN                           NaN            NaN NaN                           NaN            NaN
+                       5. DAL            NaN NaN                     6. BE            NaN NaN                        7. WAU            NaN NaN                    8. JEMAKIR            NaN
+   (DALTUGI : Dal Sabtu Legi)            NaN NaN (BEMISGI : Be Kamis Legi)            NaN NaN (WUNENWON : Wau Senin Kliwon)            NaN NaN (JIMAGE : Jemakir Jumat Wage)            NaN
+                        BULAN JATUHNYA BULAN NaN                     BULAN JATUHNYA BULAN NaN                         BULAN JATUHNYA BULAN NaN                         BULAN JATUHNYA BULAN
+                         Suro     Sabtu Legi NaN                      Suro     Kamis Legi NaN                          Suro   Senin Kliwon NaN                          Suro    Jum'at Wage
+                        Sapar     Senin Legi NaN                     Sapar     Sabtu Legi NaN                         Sapar    Rabu Kliwon NaN                         Sapar    Minggu Wage
+                        Mulud  Selasa Kliwon NaN                     Mulud  Minggu Kliwon NaN                         Mulud     Kamis Wage NaN                         Mulud      Senin Pon
+                  Bakda Mulut   Kamis Kliwon NaN               Bakda Mulut  Selasa Kliwon NaN                   Bakda Mulut     Sabtu Wage NaN                   Bakda Mulut       Rabu Pon
+                 Jumadil Awal    Jum'at Wage NaN              Jumadil Awal      Rabu Wage NaN                  Jumadil Awal     Minggu Pon NaN                  Jumadil Awal   Kamis Pahing
+                Jumadil Akhir    Minggu Wage NaN             Jumadil Akhir    Jum'at Wage NaN                 Jumadil Akhir     Selasa Pon NaN                 Jumadil Akhir   Sabtu Pahing
+                       Redjeb      Senin Pon NaN                    Redjeb      Sabtu Pon NaN                        Redjeb    Rabu Pahing NaN                        Redjeb    Minggu Legi
+                        Ruwah       Rabu Pon NaN                     Ruwah      Senin Pon NaN                         Ruwah  Jum'at Pahing NaN                         Ruwah    Selasa Legi
+                         Poso   Kamis Pahing NaN                      Poso  Selasa Pahing NaN                          Poso     Sabtu Legi NaN                          Poso    Rabu Kliwon
+                       Syawal   Sabtu Pahing NaN                    Syawal   Kamis Pahing NaN                        Syawal     Senin Legi NaN                        Syawal  Jum'at Kliwon
+                         Selo    Minggu Legi NaN                      Selo    Jum'at Legi NaN                          Selo  Selasa Kliwon NaN                          Selo     Sabtu Wage
+                        Besar    Selasa Legi NaN                     Besar    Minggu Legi NaN                         Besar   Kamis Kliwon NaN                         Besar     Senin Wage
+
+=== SHEET: NAGA DINO ===
+                             BAIK BURUKNYA HARI NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                          JAM NAAS                         NaN NaN                                                                                                                                               HITUNGAN UNTUK ORANG HAMIL (NGRUJAKI)   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN (Larangan keras untuk pergi berangkat perang atau menyerbu musuh)                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                        PASARAN NaN    NaN  NaN            NaN    NAGA TAHUN      NaN NAGA DINO  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                              HARI                       J A M NaN                                                                                                                                                                            1 = Wiji   NaN NaN     NaN   NaN
+                                              X NaN      O    4              4          Suro      NaN         4    5     7      6                         9    3    8 NaN                                                            Minggu Antara jam 10 sampai jam 11 NaN                                                                                                                                                                            2 = Dadi   NaN NaN     NaN   NaN
+                                              O NaN      4    4              X         Sapar      NaN         9    3     5      4                         7    8    5 NaN                                                               NaN Antara jam 17 sampai jam 18 NaN                                                                                                                                                                           3 = Urung   NaN NaN     NaN   NaN
+                                              4   X      0  NaN              4         Mulud      NaN         8    9     4      3                         3    7    5 NaN                                                             Senin   Antara jam 8 sampai jam 9 NaN                                                                                                                                                                               KET :   NaN NaN     NaN   NaN
+                                              X   4      4  NaN              O   Bakda Mulut      NaN         6    7     9      8                         6    5    3 NaN                                                               NaN Antara jam 15 sampai jam 16 NaN Paling baik kalau ngrujaki jatuh pada DADI kemudian WIJI (WUJUD), misalnya Rabu Pon neptunya 14 lalu kita urutkan sesuai nomer diatas sehingga jatuh pada nomer 2 yang berarti DADI   NaN NaN     NaN   NaN
+                                              X   O    NaN    4              4  Jumadil Awal      NaN         9    6     8      7                         3    4    7 NaN                                                            Selasa   Antara jam 6 sampai jam 7 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                              4   4    NaN    O              X Jumadil Akhir      NaN         3    4     6      9                         5    9    7 NaN                                                               NaN Antara jam 13 sampai jam 14 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                              X   O    NaN    4              4        Redjeb      NaN         9    3     5      4                         7    8    6 NaN                                                              Rabu Antara jam 12 sampai jam 13 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                              4   4      X    O            NaN         Ruwah      NaN         7    8     3      9                         5    5    4 NaN                                                               NaN Antara jam 17 sampai jam 18 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                              4   4      O    X            NaN          Poso      NaN         8    3     9      3                         4    6    5 NaN                                                             Kamis Antara jam 10 sampai jam 11 NaN                                                                                                                                                               HITUNGAN UNTUK MALING   NaN NaN     NaN   NaN
+                                              4   4      O    X              4        Syawal      NaN         4    5     7      6                         9    3    3 NaN                                                               NaN Antara jam 15 sampai jam 16 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                              O NaN      4    X              4          Selo      NaN         3    4     6      5                         5    9    7 NaN                                                            Jum'at   Antara jam 8 sampai jam 9 NaN                                                                                                                                                                          1 = Ketong   NaN NaN     NaN   NaN
+                                              X   O      4  NaN              4         Besar      NaN         7    9     4      3                         6    7    5 NaN                                                               NaN Antara jam 13 sampai jam 14 NaN                                                                                                                                                                            2 = Rojo   NaN NaN     NaN   NaN
+                                           Wage Pon Pahing Legi         Kliwon             X Halangan      Reso Guna Waras Ciloko                      Pati Loro Jaga NaN                                                             Sabtu   Antara jam 6 sampai jam 7 NaN                                                                                                                                                                            3 = Pati   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN             O   Gedong       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN Antara jam 11 sampai jam 12 NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN             4   Pangan       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN   Kosong       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                              SESAJI   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                     Cuwek anyar, lawe, rokok cerutu, kembang takiran, endok, kelopo karo gulo jawa.   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                       NaN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                    TALIWANGKE  NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN       POSISI / KEDUDUKAN   NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                    Sate sak sujen, ngilon, suri, golek'an, gedang raja siji, jajan, beras sak jumput, buceng cilik.   NaN NaN     NaN   NaN
+(Hari yang tidak bisa digunakan untuk apa saja) NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN                NAGA TAHUN  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                            NaN NaN    NaN  NaN            NaN           NaN      NaN       NaN  NaN   NaN    NaN (Tiga Bulan Sekali Ganti)  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                          BULAN NaN    NaN  NaN HARI & PASARAN           NaN      NaN       NaN  NaN   NaN    NaN                     BULAN  NaN  NaN NaN                                                POSISI / KEDUDUKAN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                           Suro NaN    NaN  NaN    Rabu Pahing           NaN      NaN       NaN  NaN   NaN    NaN                      Suro  NaN  NaN NaN                                                     Timur / Wetan                         NaN NaN                                                                                                                                                         JUMLAH NEPTU HARI & PASARAN   NaN NaN     NaN   NaN
+                                          Sapar NaN    NaN  NaN      Kamis Pon           NaN      NaN       NaN  NaN   NaN    NaN                     Sapar  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                          Mulud NaN    NaN  NaN    Jum'at Wage           NaN      NaN       NaN  NaN   NaN    NaN                     Mulud  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+                                    Bakda Mulut NaN    NaN  NaN   Sabtu Kliwon           NaN      NaN       NaN  NaN   NaN    NaN               Bakda Mulut  NaN  NaN NaN                                                   Selatan / Kidul                         NaN NaN                                                                                                                                                                                HARI NEPTU NaN PASARAN NEPTU
+                                   Jumadil Awal NaN    NaN  NaN   Senin Kliwon           NaN      NaN       NaN  NaN   NaN    NaN              Jumadil Awal  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                              Minggu     5 NaN    Legi     5
+                                  Jumadil Akhir NaN    NaN  NaN    Selasa Legi           NaN      NaN       NaN  NaN   NaN    NaN             Jumadil Akhir  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                               Senin     4 NaN  Pahing     9
+                                         Redjeb NaN    NaN  NaN    Rabu Pahing           NaN      NaN       NaN  NaN   NaN    NaN                    Redjeb  NaN  NaN NaN                                                     Barat / Kulon                         NaN NaN                                                                                                                                                                              Selasa     3 NaN     Pon     7
+                                          Ruwah NaN    NaN  NaN      Kamis Pon           NaN      NaN       NaN  NaN   NaN    NaN                     Ruwah  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                               Rabu      7 NaN    Wage     4
+                                           Poso NaN    NaN  NaN    Jum'at Wage           NaN      NaN       NaN  NaN   NaN    NaN                      Poso  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                               Kamis     8 NaN  Kliwon     8
+                                         Syawal NaN    NaN  NaN   Sabtu Kliwon           NaN      NaN       NaN  NaN   NaN    NaN                    Syawal  NaN  NaN NaN                                                       Utara / Lor                         NaN NaN                                                                                                                                                                              Jum'at     6 NaN     NaN   NaN
+                                           Selo NaN    NaN  NaN   Senin Kliwon           NaN      NaN       NaN  NaN   NaN    NaN                      Selo  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                               Sabtu     9 NaN     NaN   NaN
+                                          Besar NaN    NaN  NaN    Selasa Legi           NaN      NaN       NaN  NaN   NaN    NaN                     Besar  NaN  NaN NaN                                                               NaN                         NaN NaN                                                                                                                                                                                 NaN   NaN NaN     NaN   NaN
+
+=== SHEET: APES ===
+NAAS BERDASARKAN WETON    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu   Legi   :             5       + 5.0   =    10 NaN NaN Senin   Legi   :             4   + 5.0   =  9.0
+                  Apes  Kecil   :    Selasa Pon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :      Rabu Pon NaN NaN NaN  NaN
+                   NaN Sedang   :  Sabtu Pahing     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Minggu Pahing NaN NaN NaN  NaN
+                   NaN  Besar   : Selasa Kliwon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :   Selasa Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu Pahing   :             5       + 9.0   =    14 NaN NaN Senin Pahing   :             4   + 9.0   = 13.0
+                  Apes  Kecil   :   Selasa Wage     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :     Rabu Wage NaN NaN NaN  NaN
+                   NaN Sedang   :     Sabtu Pon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :    Minggu Pon NaN NaN NaN  NaN
+                   NaN  Besar   :  Sabtu Kliwon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Sabtu Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu    Pon   :             5       + 7.0   =    12 NaN NaN Senin    Pon   :             4   + 7.0   = 11.0
+                  Apes  Kecil   : Selasa Kliwon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :   Rabu Kliwon NaN NaN NaN  NaN
+                   NaN Sedang   :    Sabtu Wage     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Minggu Wage NaN NaN NaN  NaN
+                   NaN  Besar   :    Kamis Wage     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :     Kamis Pon NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu   Wage   :             5       + 4.0   =     9 NaN NaN Senin   Wage   :             4   + 4.0   =  8.0
+                  Apes  Kecil   :   Selasa Legi     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :     Rabu Legi NaN NaN NaN  NaN
+                   NaN Sedang   :  Sabtu Kliwon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Minggu Kliwon NaN NaN NaN  NaN
+                   NaN  Besar   :  Senin Pahing     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Senin Legi NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu Kliwon   :             5       + 8.0   =    13 NaN NaN Senin Kliwon   :             4   + 8.0   = 12.0
+                  Apes  Kecil   : Selasa Pahing     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :   Rabu Pahing NaN NaN NaN  NaN
+                   NaN Sedang   :    Sabtu Legi     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Minggu Legi NaN NaN NaN  NaN
+                   NaN  Besar   : Jum'at Pahing     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :   Jum'at Legi NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa   Legi   :             3       + 5.0   =     8 NaN NaN  Rabu   Legi   :             7   + 5.0   = 12.0
+                  Apes  Kecil   :     Kamis Pon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :    Jum'at Pon NaN NaN NaN  NaN
+                   NaN Sedang   :  Senin Pahing     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Selasa Pahing NaN NaN NaN  NaN
+                   NaN  Besar   :    Selasa Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   : Minggu Pahing NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa Pahing   :             3       + 9.0   =    12 NaN NaN  Rabu Pahing   :             7   + 9.0   = 16.0
+                  Apes  Kecil   :    Kamis Wage     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :   Jum'at Wage NaN NaN NaN  NaN
+                   NaN Sedang   :     Senin Pon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :    Selasa Pon NaN NaN NaN  NaN
+                   NaN  Besar   :     Sabtu Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :  Kamis Pahing NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa    Pon   :             3       + 7.0   =    10 NaN NaN  Rabu    Pon   :             7   + 7.0   = 14.0
+                  Apes  Kecil   :  Kamis Kliwon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   : Jum'at kliwon NaN NaN NaN  NaN
+                   NaN Sedang   :    Senin Wage     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Selasa Wage NaN NaN NaN  NaN
+                   NaN  Besar   :  Kamis Pahing     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :   Selasa Legi NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa   Wage   :             3       + 4.0   =     7 NaN NaN  Rabu   Wage   :             7   + 4.0   = 11.0
+                  Apes  Kecil   :    Kamis Legi     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :   Jum'at Legi NaN NaN NaN  NaN
+                   NaN Sedang   :  Senin Kliwon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Selasa Kliwon NaN NaN NaN  NaN
+                   NaN  Besar   :  Senin Kliwon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Sabtu Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa Kliwon   :             3       + 8.0   =    11 NaN NaN  Rabu Kliwon   :             7   + 8.0   = 15.0
+                  Apes  Kecil   :  Kamis Pahing     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   : Jum'at Pahing NaN NaN NaN  NaN
+                   NaN Sedang   :    Senin Legi     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Selasa Legi NaN NaN NaN  NaN
+                   NaN  Besar   : Jum'at Kliwon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :     Rabu Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Kamis   Legi   :             8       + 5.0   =    13 NaN NaN Kamis   Wage   :             8   + 4.0   = 12.0
+                  Apes  Kecil   :     Sabtu Pon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :    Sabtu Legi NaN NaN NaN  NaN
+                   NaN Sedang   :   Rabu Pahing     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Rabu Kliwon NaN NaN NaN  NaN
+                   NaN  Besar   :    Selasa Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :  Senin Kliwon NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Kamis Pahing   :             8       + 9.0   =    17 NaN NaN Kamis Kliwon   :             8   + 8.0   = 16.0
+                  Apes  Kecil   :    Sabtu Wage     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   : Sabtu Pahing  NaN NaN NaN  NaN
+                   NaN Sedang   :      Rabu Pon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :     Rabu Legi NaN NaN NaN  NaN
+                   NaN  Besar   :     Sabtu Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   : Jum'at Kliwon NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Kamis    Pon   :             8       + 7.0   =    15 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                  Apes  Kecil   :  Sabtu Kliwon     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN Sedang   :     Rabu Wage     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN  Besar   :  Kamis Pahing     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+NAAS BERDASARKAN WETON    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at   Legi   :             6       + 5.0   =    11 NaN NaN Sabtu   Legi   :             9   + 5.0   = 14.0
+                  Apes  Kecil   :    Minggu Pon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :     Senin Pon NaN NaN NaN  NaN
+                   NaN Sedang   :  Kamis Pahing     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Jum'at Pahing NaN NaN NaN  NaN
+                   NaN  Besar   :    Senin Legi     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :   Jum'at Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at Pahing   :             6       + 9.0   =    15 NaN NaN Sabtu Pahing   :             9   + 9.0   = 18.0
+                  Apes  Kecil   :   Minggu Wage     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :    Senin Wage NaN NaN NaN  NaN
+                   NaN Sedang   :     Kamis Pon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :    Jum'at Pon NaN NaN NaN  NaN
+                   NaN  Besar   :   Jum'at Legi     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :   Selasa Wage NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at    Pon   :             6       + 7.0   =    13 NaN NaN Sabtu    Pon   :             9   + 7.0   = 16.0
+                  Apes  Kecil   : Minggu Kliwon     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :  Senin Kliwon NaN NaN NaN  NaN
+                   NaN Sedang   :    Kamis Wage     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Jum'at Wage NaN NaN NaN  NaN
+                   NaN  Besar   :   Rabu Kliwon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Minggu Pon NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at   Wage   :             6       + 4.0   =    10 NaN NaN Sabtu   Wage   :             9   + 4.0   = 13.0
+                  Apes  Kecil   :   Minggu Legi     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :    Senin Legi NaN NaN NaN  NaN
+                   NaN Sedang   :  Kamis Kliwon     NaN NaN NaN   NaN NaN NaN   NaN Sedang   : Jum'at Kliwon NaN NaN NaN  NaN
+                   NaN  Besar   :    Minggu Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Kamis Legi NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at Kliwon   :             6       + 8.0   =    14 NaN NaN Sabtu Kliwon   :             9   + 8.0   = 17.0
+                  Apes  Kecil   : Minggu Pahing     NaN NaN NaN   NaN NaN NaN  Apes  Kecil   :  Senin Pahing NaN NaN NaN  NaN
+                   NaN Sedang   :    Kamis Legi     NaN NaN NaN   NaN NaN NaN   NaN Sedang   :   Jum'at Legi NaN NaN NaN  NaN
+                   NaN  Besar   :     Kamis Pon     NaN NaN NaN   NaN NaN NaN   NaN  Besar   :    Senin Legi NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                   NaN    NaN NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                  HARI  NEPTU NaN           NaN PASARAN NaN NaN NEPTU NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Minggu      5 NaN           NaN    Legi NaN NaN     5 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Senin      4 NaN           NaN  Pahing NaN NaN     9 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Selasa      3 NaN           NaN     Pon NaN NaN     7 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                  Rabu      7 NaN           NaN    Wage NaN NaN     4 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Kamis      8 NaN           NaN  Kliwon NaN NaN     8 NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                Jum'at      6 NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+                 Sabtu      9 NaN           NaN     NaN NaN NaN   NaN NaN NaN   NaN    NaN NaN           NaN NaN NaN NaN  NaN
+
+=== SHEET: POSO 40 DINO ===
+JUMLAH HARI DAN PASARAN UNTUK PUASA 3 HARI TAPI BERJUMLAH 40    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu   Legi 5.0   + 5.0   = 10.0 NaN   Senin   Legi 4.0   + 5.0   =  9.0 NaN Selasa   Legi 3.0   + 5.0   =  8.0 NaN   Rabu   Legi 7.0   + 5.0   = 12.0 NaN  Kamis   Legi 8.0   + 5.0   = 13.0
+                                                       Senin Pahing 4.0   + 9.0   = 13.0 NaN  Selasa Pahing 3.0   + 9.0   = 12.0 NaN   Rabu Pahing 7.0   + 9.0   = 16.0 NaN  Kamis Pahing 8.0   + 9.0   = 17.0 NaN Jum'at Pahing 6.0   + 9.0   = 15.0
+                                                      Selasa    Pon 3.0   + 7.0   = 10.0 NaN    Rabu    Pon 7.0   + 7.0   = 14.0 NaN  Kamis    Pon 8.0   + 7.0   = 15.0 NaN Jum'at    Pon 6.0   + 7.0   = 13.0 NaN  Sabtu    Pon 9.0   + 7.0   = 16.0
+                                                         NaN    NaN NaN NaN NaN NaN 33.0 NaN     NaN    NaN NaN NaN NaN NaN 35.0 NaN    NaN    NaN NaN NaN NaN NaN 39.0 NaN    NaN    NaN NaN NaN NaN NaN 42.0 NaN    NaN    NaN NaN NaN NaN NaN 44.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu Pahing 5.0   + 9.0   = 14.0 NaN   Senin Pahing 4.0   + 9.0   = 13.0 NaN Selasa Pahing 3.0   + 9.0   = 12.0 NaN   Rabu Pahing 7.0   + 9.0   = 16.0 NaN  Kamis Pahing 8.0   + 9.0   = 17.0
+                                                       Senin    Pon 4.0   + 7.0   = 11.0 NaN  Selasa    Pon 3.0   + 7.0   = 10.0 NaN   Rabu    Pon 7.0   + 7.0   = 14.0 NaN  Kamis    Pon 8.0   + 7.0   = 15.0 NaN Jum'at    Pon 6.0   + 7.0   = 13.0
+                                                      Selasa   Wage 3.0   + 4.0   =  7.0 NaN    Rabu   Wage 7.0   + 4.0   = 11.0 NaN  Kamis   Wage 8.0   + 4.0   = 12.0 NaN Jum'at   Wage 6.0   + 4.0   = 10.0 NaN  Sabtu   Wage 9.0   + 4.0   = 13.0
+                                                         NaN    NaN NaN NaN NaN NaN 32.0 NaN     NaN    NaN NaN NaN NaN NaN 34.0 NaN    NaN    NaN NaN NaN NaN NaN 38.0 NaN    NaN    NaN NaN NaN NaN NaN 41.0 NaN    NaN    NaN NaN NaN NaN NaN 43.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu    Pon 5.0   + 7.0   = 12.0 NaN   Senin    Pon 4.0   + 7.0   = 11.0 NaN Selasa    Pon 3.0   + 7.0   = 10.0 NaN   Rabu    Pon 7.0   + 7.0   = 14.0 NaN  Kamis    Pon 8.0   + 7.0   = 15.0
+                                                       Senin   Wage 4.0   + 4.0   =  8.0 NaN  Selasa   Wage 3.0   + 4.0   =  7.0 NaN   Rabu   Wage 7.0   + 4.0   = 11.0 NaN  Kamis   Wage 8.0   + 4.0   = 12.0 NaN Jum'at   Wage 6.0   + 4.0   = 10.0
+                                                      Selasa Kliwon 3.0   + 8.0   = 11.0 NaN    Rabu Kliwon 7.0   + 8.0   = 15.0 NaN  Kamis Kliwon 8.0   + 8.0   = 16.0 NaN Jum'at Kliwon 6.0   + 8.0   = 14.0 NaN  Sabtu Kliwon 9.0   + 8.0   = 17.0
+                                                         NaN    NaN NaN NaN NaN NaN 31.0 NaN     NaN    NaN NaN NaN NaN NaN 33.0 NaN    NaN    NaN NaN NaN NaN NaN 37.0 NaN    NaN    NaN NaN NaN NaN NaN 40.0 NaN    NaN    NaN NaN NaN NaN NaN 42.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu  Wage  5.0   + 4.0   =  9.0 NaN   Senin  Wage  4.0   + 4.0   =  8.0 NaN Selasa  Wage  3.0   + 4.0   =  7.0 NaN   Rabu  Wage  7.0   + 4.0   = 11.0 NaN  Kamis  Wage  8.0   + 4.0   = 12.0
+                                                       Senin Kliwon 4.0   + 8.0   = 12.0 NaN  Selasa Kliwon 3.0   + 8.0   = 11.0 NaN   Rabu Kliwon 7.0   + 8.0   = 15.0 NaN  Kamis Kliwon 8.0   + 8.0   = 16.0 NaN Jum'at Kliwon 6.0   + 8.0   = 14.0
+                                                      Selasa   Legi 3.0   + 5.0   =  8.0 NaN    Rabu   Legi 7.0   + 5.0   = 12.0 NaN  Kamis   Legi 8.0   + 5.0   = 13.0 NaN Jum'at   Legi 6.0   + 5.0   = 11.0 NaN  Sabtu   Legi 9.0   + 5.0   = 14.0
+                                                         NaN    NaN NaN NaN NaN NaN 29.0 NaN     NaN    NaN NaN NaN NaN NaN 31.0 NaN    NaN    NaN NaN NaN NaN NaN 35.0 NaN    NaN    NaN NaN NaN NaN NaN 38.0 NaN    NaN    NaN NaN NaN NaN NaN 40.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu Kliwon 5.0   + 8.0   = 13.0 NaN   Senin Kliwon 4.0   + 8.0   = 12.0 NaN Selasa Kliwon 3.0   + 8.0   = 11.0 NaN   Rabu Kliwon 7.0   + 8.0   = 15.0 NaN  Kamis Kliwon 8.0   + 8.0   = 16.0
+                                                       Senin   Legi 4.0   + 5.0   =  9.0 NaN  Selasa   Legi 3.0   + 5.0   =  8.0 NaN   Rabu   Legi 7.0   + 5.0   = 12.0 NaN  Kamis   Legi 8.0   + 5.0   = 13.0 NaN Jum'at   Legi 6.0   + 5.0   = 11.0
+                                                      Selasa Pahing 3.0   + 9.0   = 12.0 NaN    Rabu Pahing 7.0   + 9.0   = 16.0 NaN  Kamis Pahing 8.0   + 9.0   = 17.0 NaN Jum'at Pahing 6.0   + 9.0   = 15.0 NaN  Sabtu Pahing 9.0   + 9.0   = 18.0
+                                                         NaN    NaN NaN NaN NaN NaN 34.0 NaN     NaN    NaN NaN NaN NaN NaN 36.0 NaN    NaN    NaN NaN NaN NaN NaN 40.0 NaN    NaN    NaN NaN NaN NaN NaN 43.0 NaN    NaN    NaN NaN NaN NaN NaN 45.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Jum'at   Legi 6.0   + 5.0   = 11.0 NaN   Sabtu   Legi 9.0   + 5.0   = 14.0 NaN Jum'at  Wage  6.0   + 4.0   = 10.0 NaN  Sabtu  Wage  9.0   + 4.0   = 13.0 NaN Jum'at    Pon 6.0   + 7.0   = 13.0
+                                                       Sabtu Pahing 9.0   + 9.0   = 18.0 NaN  Minggu Pahing 5.0   + 9.0   = 14.0 NaN  Sabtu Kliwon 9.0   + 8.0   = 17.0 NaN Minggu Kliwon 5.0   + 8.0   = 13.0 NaN  Sabtu   Wage 9.0   + 4.0   = 13.0
+                                                      Minggu    Pon 5.0   + 7.0   = 12.0 NaN   Senin    Pon 4.0   + 7.0   = 11.0 NaN Minggu   Legi 5.0   + 5.0   = 10.0 NaN  Senin   Legi 4.0   + 5.0   =  9.0 NaN Minggu Kliwon 5.0   + 8.0   = 13.0
+                                                         NaN    NaN NaN NaN NaN NaN 41.0 NaN     NaN    NaN NaN NaN NaN NaN 39.0 NaN    NaN    NaN NaN NaN NaN NaN 37.0 NaN    NaN    NaN NaN NaN NaN NaN 35.0 NaN    NaN    NaN NaN NaN NaN NaN 39.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Jum'at Pahing 6.0   + 9.0   = 15.0 NaN   Sabtu Pahing 9.0   + 9.0   = 18.0 NaN Jum'at Kliwon 6.0   + 8.0   = 14.0 NaN  Sabtu Kliwon 9.0   + 8.0   = 17.0 NaN  Sabtu    Pon 9.0   + 7.0   = 16.0
+                                                       Sabtu    Pon 9.0   + 7.0   = 16.0 NaN  Minggu    Pon 5.0   + 7.0   = 12.0 NaN  Sabtu   Legi 9.0   + 5.0   = 14.0 NaN Minggu   Legi 5.0   + 5.0   = 10.0 NaN Minggu   Wage 5.0   + 4.0   =  9.0
+                                                      Minggu   Wage 5.0   + 4.0   =  9.0 NaN   Senin   Wage 4.0   + 4.0   =  8.0 NaN Minggu Pahing 5.0   + 9.0   = 14.0 NaN  Senin Pahing 4.0   + 9.0   = 13.0 NaN  Senin Kliwon 4.0   + 8.0   = 12.0
+                                                         NaN    NaN NaN NaN NaN NaN 40.0 NaN     NaN    NaN NaN NaN NaN NaN 38.0 NaN    NaN    NaN NaN NaN NaN NaN 42.0 NaN    NaN    NaN NaN NaN NaN NaN 40.0 NaN    NaN    NaN NaN NaN NaN NaN 37.0
+                                                         NaN    NaN NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                        HARI  NEPTU NaN NaN NaN NaN  NaN NaN PASARAN  NEPTU NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Minggu      5 NaN NaN NaN NaN  NaN NaN    Legi      5 NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                       Senin      4 NaN NaN NaN NaN  NaN NaN  Pahing      9 NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Selasa      3 NaN NaN NaN NaN  NaN NaN     Pon      7 NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                        Rabu      7 NaN NaN NaN NaN  NaN NaN    Wage      4 NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                       Kamis      8 NaN NaN NaN NaN  NaN NaN  Kliwon      8 NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                      Jum'at      6 NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+                                                       Sabtu      9 NaN NaN NaN NaN  NaN NaN     NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN NaN    NaN    NaN NaN NaN NaN NaN  NaN
+
+=== SHEET: BOYONGAN ===
+                                 JUMLAH HARI DAN PASARAN UNTUK PINDAH RUMAH,      NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                            PASANG KUDA-KUDA DAN BUAT PONDASI     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                         HARI PASARAN NEPTU NaN       NaN NaN  NaN NaN                                  NaN   HARI NEPTU NaN NaN PASARAN NEPTU
+                                                                       Minggu  Kliwon     5   +         8   = 13.0 NaN                                  NaN Minggu     5 NaN NaN    Legi     5
+                                                                        Senin  Pahing     4   +         9   = 13.0 NaN                                  NaN  Senin     4 NaN NaN  Pahing     9
+                                                                        Kamis    Legi     8   +         5   = 13.0 NaN                                  NaN Selasa     3 NaN NaN     Pon     7
+                                                                        Kamis  Pahing     8   +         9   = 17.0 NaN                                  NaN   Rabu     7 NaN NaN    Wage     4
+                                                                       Jum'at     Pon     6   +         7   = 13.0 NaN                                  NaN  Kamis     8 NaN NaN  Kliwon     8
+                                                                        Sabtu  Kliwon     9   +         8   = 17.0 NaN                                  NaN Jum'at     6 NaN NaN     NaN   NaN
+                                                                        Sabtu   Wage      9   +         4   = 13.0 NaN                                  NaN  Sabtu     9 NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                HITUNGANNYA :     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+Jumlah neptu dibagi 4 dan sisanya menunjukkan keadaan rumah dan penghuninya :     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                              Keterangan sisa     NaN     :  1.      Guna NaN  NaN   :                Migunani / bermanfaat    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN  2.      Reso NaN  NaN   :                    Resani / Ngresiki    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN  3.     Rogoh NaN  NaN   :               Ngrogoh / Akeh Malinge    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN  4. Sentoyong NaN  NaN   : Ngadeg tapi rubohan / Rejekine angel    NaN   NaN NaN NaN     NaN   NaN
+                                                                          NaN     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+                              Jumlah neptu hari yang baik berjumlah 13 dan 17     NaN   NaN NaN       NaN NaN  NaN NaN                                  NaN    NaN   NaN NaN NaN     NaN   NaN
+
+=== SHEET: 7 BULANAN ===
+                             JUMLAH HARI DAN PASARAN UNTUK TUJUH BULANAN     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                    HARI PASARAN NEPTU NaN    NaN NaN  NaN NaN                                                        NaN   HARI NEPTU NaN NaN PASARAN NEPTU
+                                                                  Minggu  Pahing     5   +      9   = 14.0 NaN                                                        NaN Minggu     5 NaN NaN    Legi     5
+                                                                   Senin     Pon     4   +      7   = 11.0 NaN                                                        NaN  Senin     4 NaN NaN  Pahing     9
+                                                                   Senin    Wage     4   +      4   =  8.0 NaN                                                        NaN Selasa     3 NaN NaN     Pon     7
+                                                                  Selasa    Legi     3   +      5   =  8.0 NaN                                                        NaN   Rabu     7 NaN NaN    Wage     4
+                                                                    Rabu     Pon     7   +      7   = 14.0 NaN                                                        NaN  Kamis     8 NaN NaN  Kliwon     8
+                                                                   Kamis  Pahing     8   +      9   = 17.0 NaN                                                        NaN Jum'at     6 NaN NaN     NaN   NaN
+                                                                  Jum'at  Kliwon     6   +      8   = 14.0 NaN                                                        NaN  Sabtu     9 NaN NaN     NaN   NaN
+                                                                   Sabtu    Legi     9   +      5   = 14.0 NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                   Sabtu  Kliwon     9   +      8   = 17.0 NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                           HITUNGANNYA :     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+Jumlah neptu dibagi 3 dan sisanya menunjukkan hari baik untuk ngrujaki :     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                                                         Keterangan sisa     NaN     :  1.   Wiji NaN  NaN   :                                 Wujud anak ga tau sifatnya    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN  2.   Dadi NaN  NaN   : Wujud anak yang sifatnya sesuai dengan keinginan (terbaik)    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN  3. Wurung NaN  NaN   :                                  Tidak jadi atau keguguran    NaN   NaN NaN NaN     NaN   NaN
+                                                                     NaN     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+                  Jumlah neptu hari yang baik berjumlah 8, 11, 14 dan 17     NaN   NaN NaN    NaN NaN  NaN NaN                                                        NaN    NaN   NaN NaN NaN     NaN   NaN
+
