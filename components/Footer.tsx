@@ -43,13 +43,13 @@ export default function Footer() {
         <footer className="relative bg-kapribaden-purple-950 text-white overflow-hidden">
             {/* Decorative Elements */}
             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-kapribaden-purple-600 via-kapribaden-gold-500 to-kapribaden-purple-600" />
-            
+
             <div className="absolute top-20 right-0 w-96 h-96 bg-kapribaden-purple-800 rounded-full opacity-20 blur-3xl" />
             <div className="absolute bottom-20 left-0 w-72 h-72 bg-kapribaden-gold-600 rounded-full opacity-10 blur-3xl" />
 
             <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
                 {/* Top Section with Logo */}
-                <motion.div 
+                <motion.div
                     initial={{ opacity: 0, y: 30 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
@@ -77,7 +77,7 @@ export default function Footer() {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
                     {/* About */}
-                    <motion.div 
+                    <motion.div
                         initial={{ opacity: 0, y: 30 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
@@ -100,7 +100,7 @@ export default function Footer() {
                     </motion.div>
 
                     {/* Quick Links */}
-                    <motion.div 
+                    <motion.div
                         initial={{ opacity: 0, y: 30 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
@@ -127,7 +127,7 @@ export default function Footer() {
                     </motion.div>
 
                     {/* More Links */}
-                    <motion.div 
+                    <motion.div
                         initial={{ opacity: 0, y: 30 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
@@ -154,7 +154,7 @@ export default function Footer() {
                     </motion.div>
 
                     {/* Sabdho */}
-                    <motion.div 
+                    <motion.div
                         initial={{ opacity: 0, y: 30 }}
                         whileInView={{ opacity: 1, y: 0 }}
                         viewport={{ once: true }}
@@ -177,7 +177,7 @@ export default function Footer() {
                 </div>
 
                 {/* Bottom Bar */}
-                <motion.div 
+                <motion.div
                     initial={{ opacity: 0 }}
                     whileInView={{ opacity: 1 }}
                     viewport={{ once: true }}
@@ -186,14 +186,14 @@ export default function Footer() {
                 >
                     <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <p className="text-gray-500 text-sm text-center md:text-left">
-                            &copy; {currentYear} Paguyuban Penghayat Kapribaden.
+                            &copy; {currentYear} SenzDev.
                             <span className="text-kapribaden-gold-500 ml-1">Semua hak dilindungi.</span>
                         </p>
                         <div className="flex items-center space-x-2 text-sm text-gray-500">
                             <span>Made with</span>
-                            <motion.svg 
-                                className="w-5 h-5 text-red-500" 
-                                fill="currentColor" 
+                            <motion.svg
+                                className="w-5 h-5 text-red-500"
+                                fill="currentColor"
                                 viewBox="0 0 20 20"
                                 animate={{ scale: [1, 1.2, 1] }}
                                 transition={{ duration: 1, repeat: Infinity }}

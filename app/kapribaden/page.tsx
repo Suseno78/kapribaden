@@ -144,12 +144,12 @@ export default function KapribadenPage() {
                     </AnimatedSection>
 
                     <AnimatedSection>
-                        <div className="bg-kapribaden-purple-900/50 border border-kapribaden-purple-800 rounded-2xl p-8">
-                            <div className="prose prose-invert">
-                                <p className="text-gray-100">
+                        <div className="bg-kapribaden-gold-100 border border-kapribaden-gold-300 rounded-2xl p-8">
+                            <div className="space-y-4">
+                                <p className="text-kapribaden-purple-900 text-lg leading-relaxed">
                                     Setelah tahu bahwa diri kita sebagai manusia seperti sudah disebutkan, manusia tidak cukup hanya percaya bahwa di dalam dirinya ada roh, urip.
                                 </p>
-                                <p className="text-gray-100">
+                                <p className="text-kapribaden-purple-900 text-lg leading-relaxed">
                                     Manusia dikenalkan dengan uripnya, sampai bisa merasakan sendiri bahwa urip atau roh itu memang ada.
                                 </p>
                             </div>
@@ -169,12 +169,12 @@ export default function KapribadenPage() {
                     </AnimatedSection>
 
                     <AnimatedSection delay={0.3} className="mt-8">
-                        <div className="bg-kapribaden-purple-900/50 border border-kapribaden-purple-800 rounded-2xl p-8">
-                            <p className="text-gray-100">
+                        <div className="bg-white border border-kapribaden-purple-200 rounded-2xl p-8">
+                            <p className="text-kapribaden-purple-800 text-lg leading-relaxed">
                                 Selanjutnya gunakan KUNCI itu dengan sungguh-sungguh. Jangan percaya tetapi jalani dan buktikan sendiri. Kita akan selalu dituntun,
                                 diberi petunjuk oleh urip kita dalam menjalani kehidupan dan penghidupan sehari-hari.
                             </p>
-                            <p className="text-gray-100 mt-4">
+                            <p className="text-kapribaden-purple-800 text-lg leading-relaxed mt-4">
                                 Kalau memang sudah yakin karena membuktikan dan merasakan sendiri, silahkan meminta kelanjutannya.
                             </p>
                         </div>

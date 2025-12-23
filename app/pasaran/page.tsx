@@ -82,174 +82,137 @@ export default function PasaranPage() {
             {/* Tabel Baik Buruknya Hari */}
             <div className="content-section overflow-x-auto">
                 <h2 className="text-center mb-6 bg-yellow-200 py-2 font-bold">BAIK BURUKNYA HARI</h2>
-                
-                <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mb-6">
-                    {/* Kolom 1: Tabel PASARAN + NAGA TAHUN + NAGA DINO gabungan */}
-                    <div className="space-y-3">
+
+                <div className="space-y-4">
+                    {/* Tabel PASARAN + NAGA TAHUN + NAGA DINO */}
+                    <table className="w-full border-collapse border border-gray-400 text-xs">
+                        <thead>
+                            <tr>
+                                <th className="border border-gray-400 p-1 bg-yellow-200" colSpan={5}>PASARAN</th>
+                                <th className="border border-gray-400 p-1 bg-green-200" colSpan={2}>NAGA TAHUN</th>
+                                <th className="border border-gray-400 p-1 bg-cyan-200" colSpan={7}>NAGA DINO</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center bg-green-50">Suro</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center bg-green-50">Sapar</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">0</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Mulud</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center bg-green-50">Bakda Mulut</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Awal</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Akhir</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Redjeb</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center bg-green-50">Ruwah</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center bg-green-50">Poso</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Syawal</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Selo</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td></tr>
+                            <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">-</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Besar</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">9</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">4</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">3</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">6</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">7</td><td className="border border-gray-400 p-1 text-center bg-cyan-50">5</td></tr>
+                        </tbody>
+                    </table>
+
+                    {/* Tabel Legenda - sejajar dengan tabel utama (14 kolom: 5 PASARAN + 2 + 7 NAGA DINO) */}
+                    <table className="w-full border-collapse border border-gray-400 text-xs">
+                        <tbody>
+                            <tr>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>W<br />a<br />g<br />e</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>P<br />o<br />n</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>P<br />a<br />h<br />i<br />n<br />g</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>L<br />e<br />g<br />i</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>K<br />l<br />i<br />w<br />o<br />n</td>
+                                <td className="border border-gray-400 p-1 text-center">X</td>
+                                <td className="border border-gray-400 p-1 text-center bg-red-100">Halangan</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>R<br />e<br />s<br />o</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>G<br />u<br />n<br />a</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>W<br />a<br />r<br />a<br />s</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>C<br />i<br />l<br />o<br />k<br />o</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>P<br />a<br />t<br />i</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>L<br />o<br />r<br />o</td>
+                                <td className="border border-gray-400 p-1 text-center" rowSpan={4}>J<br />a<br />g<br />a</td>
+                            </tr>
+                            <tr>
+                                <td className="border border-gray-400 p-1 text-center">O</td>
+                                <td className="border border-gray-400 p-1 text-center bg-green-100">Gedong</td>
+                            </tr>
+                            <tr>
+                                <td className="border border-gray-400 p-1 text-center">4</td>
+                                <td className="border border-gray-400 p-1 text-center bg-cyan-100">Pangan</td>
+                            </tr>
+                            <tr>
+                                <td className="border border-gray-400 p-1 text-center">-</td>
+                                <td className="border border-gray-400 p-1 text-center bg-yellow-100">Kosong</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                {/* Kolom Ketiga - Jam Naas, Hitungan, dan Sesaji */}
+                <div className="space-y-4">
+                    {/* Jam Naas */}
+                    <div>
+                        <h3 className="text-center font-bold mb-2 bg-gray-100 p-2 border border-gray-400">JAM NAAS</h3>
+                        <p className="text-xs mb-2 text-center">(Larangan keras untuk pergi berangkat perang atau menyerang musuh)</p>
                         <table className="w-full border-collapse border border-gray-400 text-xs">
                             <thead>
-                                <tr>
-                                    <th className="border border-gray-400 p-1 bg-yellow-200" colSpan={4}>PASARAN</th>
-                                    <th className="border border-gray-400 p-1 bg-green-200" colSpan={2}>NAGA TAHUN</th>
-                                    <th className="border border-gray-400 p-1 bg-cyan-200" colSpan={6}>NAGA DINO</th>
+                                <tr className="bg-gray-100">
+                                    <th className="border border-gray-400 p-1">HARI</th>
+                                    <th className="border border-gray-400 p-1">JAM</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Suro</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">0</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">8</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Sapar</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Mulud</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center bg-green-50">Bakda Mulut</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">3</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Awal</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">6</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Akhir</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">7</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Redjeb</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">6</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center bg-green-50">Ruwah</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Poso</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">2</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Syawal</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">8</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Selo</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
-                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Besar</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
-                            </tbody>
-                        </table>
-
-                        {/* Tabel Halangan Gedong Pangan Kosong */}
-                        <table className="border-collapse border border-gray-400 text-xs">
-                            <tbody>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>W<br/>a<br/>g<br/>o<br/>n<br/>e</td>
-                                    <td className="border border-gray-400 p-1 text-center">P</td>
-                                    <td className="border border-gray-400 p-1 text-center">K</td>
-                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>X</td>
-                                    <td className="border border-gray-400 p-1 text-center bg-red-100">Halangan</td>
-                                    <td className="border border-gray-400 p-1 text-center">R</td>
-                                    <td className="border border-gray-400 p-1 text-center">G</td>
-                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>W<br/>a<br/>r<br/>i</td>
-                                    <td className="border border-gray-400 p-1 text-center">P</td>
-                                    <td className="border border-gray-400 p-1 text-center">L</td>
-                                    <td className="border border-gray-400 p-1 text-center">J</td>
+                                    <td className="border border-gray-400 p-1">Minggu</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 10 sampai jam 11<br />Antara jam 17 sampai jam 18</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center">a</td>
-                                    <td className="border border-gray-400 p-1 text-center">l</td>
-                                    <td className="border border-gray-400 p-1 text-center bg-green-100">Gedong</td>
-                                    <td className="border border-gray-400 p-1 text-center">e</td>
-                                    <td className="border border-gray-400 p-1 text-center">u</td>
-                                    <td className="border border-gray-400 p-1 text-center">i</td>
-                                    <td className="border border-gray-400 p-1 text-center">a</td>
-                                    <td className="border border-gray-400 p-1 text-center">o</td>
+                                    <td className="border border-gray-400 p-1">Senin</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 8 sampai jam 9<br />Antara jam 15 sampai jam 16</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center">h</td>
-                                    <td className="border border-gray-400 p-1 text-center">i</td>
-                                    <td className="border border-gray-400 p-1 text-center bg-cyan-100">4</td>
-                                    <td className="border border-gray-400 p-1 text-center">s</td>
-                                    <td className="border border-gray-400 p-1 text-center">r</td>
-                                    <td className="border border-gray-400 p-1 text-center">k</td>
-                                    <td className="border border-gray-400 p-1 text-center">l</td>
-                                    <td className="border border-gray-400 p-1 text-center">a</td>
+                                    <td className="border border-gray-400 p-1">Selasa</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 6 sampai jam 7<br />Antara jam 13 sampai jam 14</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center">i</td>
-                                    <td className="border border-gray-400 p-1 text-center">w</td>
-                                    <td className="border border-gray-400 p-1 text-center bg-cyan-100">Pangan</td>
-                                    <td className="border border-gray-400 p-1 text-center">u</td>
-                                    <td className="border border-gray-400 p-1 text-center">i</td>
-                                    <td className="border border-gray-400 p-1 text-center">i</td>
-                                    <td className="border border-gray-400 p-1 text-center">o</td>
-                                    <td className="border border-gray-400 p-1 text-center">a</td>
+                                    <td className="border border-gray-400 p-1">Rabu</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 12 sampai jam 13<br />Antara jam 17 sampai jam 18</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center">n</td>
-                                    <td className="border border-gray-400 p-1 text-center">o</td>
-                                    <td className="border border-gray-400 p-1 text-center bg-yellow-100">Kosong</td>
-                                    <td className="border border-gray-400 p-1 text-center">n</td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center">o</td>
-                                    <td className="border border-gray-400 p-1 text-center">s</td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1">Kamis</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 10 sampai jam 11<br />Antara jam 15 sampai jam 16</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-1 text-center">g</td>
-                                    <td className="border border-gray-400 p-1 text-center">n</td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
-                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1">Jum&apos;at</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 8 sampai jam 9<br />Antara jam 13 sampai jam 14</td>
+                                </tr>
+                                <tr>
+                                    <td className="border border-gray-400 p-1">Sabtu</td>
+                                    <td className="border border-gray-400 p-1 text-xs">Antara jam 6 sampai jam 7<br />Antara jam 11 sampai jam 12</td>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
 
-                    {/* Kolom Ketiga - Jam Naas, Hitungan, dan Sesaji */}
-                    <div className="space-y-4">
-                        {/* Jam Naas */}
-                        <div>
-                            <h3 className="text-center font-bold mb-2 bg-gray-100 p-2 border border-gray-400">JAM NAAS</h3>
-                            <p className="text-xs mb-2 text-center">(Larangan keras untuk pergi berangkat perang atau menyerang musuh)</p>
-                            <table className="w-full border-collapse border border-gray-400 text-xs">
-                                <thead>
-                                    <tr className="bg-gray-100">
-                                        <th className="border border-gray-400 p-1">HARI</th>
-                                        <th className="border border-gray-400 p-1">JAM</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Minggu</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 10 sampai jam 11<br/>Antara jam 17 sampai jam 18</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Senin</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 8 sampai jam 9<br/>Antara jam 15 sampai jam 16</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Selasa</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 6 sampai jam 7<br/>Antara jam 13 sampai jam 14</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Rabu</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 12 sampai jam 13<br/>Antara jam 17 sampai jam 18</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Kamis</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 10 sampai jam 11<br/>Antara jam 15 sampai jam 16</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Jum&apos;at</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 8 sampai jam 9<br/>Antara jam 13 sampai jam 14</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-1">Sabtu</td>
-                                        <td className="border border-gray-400 p-1 text-xs">Antara jam 6 sampai jam 7<br/>Antara jam 11 sampai jam 12</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
+                    {/* Hitungan untuk Orang Hamil */}
+                    <div className="border border-gray-400 p-3 bg-blue-50">
+                        <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK ORANG HAMIL (NGRUJAKI)</h4>
+                        <p className="text-xs mb-1">i = Wiji</p>
+                        <p className="text-xs mb-1">2 = Dadi</p>
+                        <p className="text-xs mb-1">3 = Lutung</p>
+                        <p className="text-xs mb-2 font-bold">KEL:</p>
+                        <p className="text-xs">Paling baik kalau ngrujakl jatuh pada DADI kemudian WIJI (WUJUD), misalnya Rabu Pon neptunya 14 lalu kita urutkan sesuai nomor diatas sehingga jatuh pada nomor 2 yang berarti DADI</p>
+                    </div>
 
-                        {/* Hitungan untuk Orang Hamil */}
-                        <div className="border border-gray-400 p-3 bg-blue-50">
-                            <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK ORANG HAMIL (NGRUJAKI)</h4>
-                            <p className="text-xs mb-1">i = Wiji</p>
-                            <p className="text-xs mb-1">2 = Dadi</p>
-                            <p className="text-xs mb-1">3 = Lutung</p>
-                            <p className="text-xs mb-2 font-bold">KEL:</p>
-                            <p className="text-xs">Paling baik kalau ngrujakl jatuh pada DADI kemudian WIJI (WUJUD), misalnya Rabu Pon neptunya 14 lalu kita urutkan sesuai nomor diatas sehingga jatuh pada nomor 2 yang berarti DADI</p>
-                        </div>
+                    {/* Hitungan untuk Maling */}
+                    <div className="border border-gray-400 p-3 bg-yellow-50">
+                        <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK MALING</h4>
+                        <p className="text-xs mb-1">1 = Ketong</p>
+                        <p className="text-xs mb-1">2 = Rojo</p>
+                        <p className="text-xs">3 = Pati</p>
+                    </div>
 
-                        {/* Hitungan untuk Maling */}
-                        <div className="border border-gray-400 p-3 bg-yellow-50">
-                            <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK MALING</h4>
-                            <p className="text-xs mb-1">1 = Ketong</p>
-                            <p className="text-xs mb-1">2 = Rojo</p>
-                            <p className="text-xs">3 = Pati</p>
-                        </div>
-
-                        {/* Sesaji */}
-                        <div className="border border-gray-400 p-3 bg-gray-50">
-                            <h4 className="font-bold text-sm mb-2 text-center">SESAJI</h4>
-                            <p className="text-xs">Cuwek anyar, lawe, rokok cerutu, kembang takiran, endok, kolopo karo gulo jawa.</p>
-                            <p className="text-xs mt-2">Sate sak sujen, ngllon, suri, golek&apos;an, gedang raja siji, jajan, beras sak jumput, buceng citik.</p>
-                        </div>
+                    {/* Sesaji */}
+                    <div className="border border-gray-400 p-3 bg-gray-50">
+                        <h4 className="font-bold text-sm mb-2 text-center">SESAJI</h4>
+                        <p className="text-xs">Cuwek anyar, lawe, rokok cerutu, kembang takiran, endok, kolopo karo gulo jawa.</p>
+                        <p className="text-xs mt-2">Sate sak sujen, ngllon, suri, golek&apos;an, gedang raja siji, jajan, beras sak jumput, buceng citik.</p>
                     </div>
                 </div>
             </div>
@@ -287,7 +250,7 @@ export default function PasaranPage() {
 
                     {/* Posisi/Kedudukan Naga Tahun */}
                     <div>
-                        <h3 className="text-center font-bold mb-3 bg-gray-100 p-2 border border-gray-400">POSISI / KEDUDUKAN<br/>NAGA TAHUN</h3>
+                        <h3 className="text-center font-bold mb-3 bg-gray-100 p-2 border border-gray-400">POSISI / KEDUDUKAN<br />NAGA TAHUN</h3>
                         <p className="text-sm mb-3 text-center">(Tiga Bulan Sekali Ganti)</p>
                         <table className="w-full border-collapse border border-gray-400 text-sm mb-4">
                             <thead>
@@ -317,8 +280,8 @@ export default function PasaranPage() {
 
             {/* Pindah Rumah */}
             <div className="content-section overflow-x-auto">
-                <h2 className="text-center mb-6 text-red-700 font-bold">JUMLAH HARI DAN PASARAN UNTUK PINDAH RUMAH,<br/>PASANG KUDA-KUDA DAN BUAT PONDASI</h2>
-                
+                <h2 className="text-center mb-6 text-red-700 font-bold">JUMLAH HARI DAN PASARAN UNTUK PINDAH RUMAH,<br />PASANG KUDA-KUDA DAN BUAT PONDASI</h2>
+
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                     {/* Tabel Hari Pasaran Neptu */}
                     <table className="border-collapse border border-gray-400 text-sm">
@@ -398,7 +361,7 @@ export default function PasaranPage() {
             {/* Tujuh Bulanan */}
             <div className="content-section overflow-x-auto">
                 <h2 className="text-center mb-6 text-red-700 font-bold">JUMLAH HARI DAN PASARAN UNTUK TUJUH BULANAN</h2>
-                
+
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                     {/* Tabel Hari Pasaran Neptu */}
                     <table className="border-collapse border border-gray-400 text-sm">
@@ -480,7 +443,7 @@ export default function PasaranPage() {
             {/* Naas Berdasarkan Weton */}
             <div className="content-section overflow-x-auto">
                 <h2 className="text-center mb-6 text-red-700 font-bold">NAAS BERDASARKAN WETON</h2>
-                
+
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     {/* Minggu Legi */}
                     <div className="border-2 border-gray-400 p-3 bg-green-100">
@@ -834,7 +797,7 @@ export default function PasaranPage() {
             {/* Tabel Tahun Jawa dan Jatuhnya Bulan */}
             <div className="content-section overflow-x-auto">
                 <h2 className="text-center mb-6">TAHUN JAWA DAN JATUHNYA BULAN</h2>
-                
+
                 {/* Grid untuk 4 kolom tabel */}
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
                     {/* 1. ALIF */}
