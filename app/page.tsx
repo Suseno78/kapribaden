@@ -35,7 +35,7 @@ const sabdhoParticles = [
 export default function Home() {
     const containerRef = useRef(null)
     const [isMounted, setIsMounted] = useState(false)
-    
+
     useEffect(() => {
         setIsMounted(true)
     }, [])
@@ -48,7 +48,7 @@ export default function Home() {
         { title: 'Paweling', desc: 'Manunggal dengan Yang Maha Esa', icon: '🕊️' },
         { title: 'Mijil', desc: 'Menyatukan Raga dengan Hidup', icon: '🌟' },
         { title: 'Singkir', desc: 'Menipiskan "AKU" dalam diri', icon: '🌊' },
-        { title: 'Asmo', desc: 'Nama untuk Hidup kita', icon: '✨' },  
+        { title: 'Asmo', desc: 'Nama untuk Hidup kita', icon: '✨' },
     ]
 
     const lakuPangumbah = [
@@ -71,11 +71,11 @@ export default function Home() {
             {/* Introduction Section */}
             <section className="relative py-24 bg-white">
                 <div className="absolute inset-0 overflow-hidden">
-                    <motion.div 
+                    <motion.div
                         style={{ y: backgroundY }}
                         className="absolute -top-40 -right-40 w-96 h-96 bg-kapribaden-purple-100 rounded-full opacity-50"
                     />
-                    <motion.div 
+                    <motion.div
                         style={{ y: backgroundY }}
                         className="absolute -bottom-40 -left-40 w-80 h-80 bg-kapribaden-gold-100 rounded-full opacity-50"
                     />
@@ -100,7 +100,7 @@ export default function Home() {
                                     sabdho &quot;Honocoroko&quot; karena ditulis memakai huruf Jawa Honocoroko, dan ini merupakan satu-satunya
                                     sabdho ROMO yang tertulis.
                                 </p>
-                                
+
                                 <div className="mt-6 p-4 bg-kapribaden-purple-50 rounded-lg border border-kapribaden-purple-200">
                                     <p className="text-lg font-semibold text-kapribaden-purple-800 mb-3">
                                         Paguyuban Penghayat Kapribaden (Kapribaden) terdaftar pada :
@@ -118,31 +118,33 @@ export default function Home() {
                         </AnimatedSection>
 
                         <AnimatedSection direction="right">
-                            <div className="relative">
+                            <div className="relative max-w-sm mx-auto">
                                 <div className="absolute inset-0 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-gold-500 rounded-3xl transform rotate-3 scale-105 opacity-20" />
-                                <div className="relative bg-white rounded-3xl shadow-2xl p-8 border border-gray-100">
-                                    <div className="flex justify-center mb-6">
-                                        <motion.div
-                                            animate={{ rotate: [0, 5, -5, 0] }}
-                                            transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-                                        >
-                                            <Image
-                                                src="/images/logo-kunci-removebg-preview.png"
-                                                alt="Logo Kunci"
-                                                width={100}
-                                                height={100}
-                                                className="drop-shadow-lg"
-                                            />
-                                        </motion.div>
+                                <div className="relative bg-white rounded-3xl shadow-2xl p-4 border border-gray-100 overflow-hidden group">
+                                    <div className="relative aspect-[3/4] w-full rounded-2xl overflow-hidden mb-4">
+                                        <Image
+                                            src="/images/romo.jpeg"
+                                            alt="Romo Herucokro Semono"
+                                            fill
+                                            className="object-cover transition-transform duration-700 group-hover:scale-105"
+                                        />
+                                        <div className="absolute inset-0 bg-gradient-to-t from-kapribaden-purple-950/80 to-transparent opacity-60" />
+                                        <div className="absolute bottom-4 left-4 right-4 text-white">
+                                            <p className="font-bold text-lg">Romo Herucokro Semono</p>
+                                            <p className="text-sm text-gray-200">Pendiri Paguyuban Kapribaden</p>
+                                        </div>
                                     </div>
-                                    <div className="text-center">
-                                        <p className="text-2xl font-bold text-kapribaden-purple-800 mb-2">
-                                            Didirikan
-                                        </p>
-                                        <p className="text-4xl font-bold text-kapribaden-gold-600">
+
+                                    <div className="text-center px-4 pb-2">
+                                        <div className="flex justify-center items-center gap-2 mb-2">
+                                            <div className="h-px w-8 bg-kapribaden-purple-200" />
+                                            <span className="text-kapribaden-gold-600 text-sm font-semibold tracking-wider uppercase">Didirikan</span>
+                                            <div className="h-px w-8 bg-kapribaden-purple-200" />
+                                        </div>
+                                        <p className="text-2xl font-bold text-kapribaden-purple-800">
                                             29 April 1978
                                         </p>
-                                        <p className="text-gray-500 mt-2">Sejiwan, Purworejo</p>
+                                        <p className="text-gray-500 text-sm mt-1">Sejiwan, Purworejo</p>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +156,7 @@ export default function Home() {
             {/* Sabdho Honocoroko Section - Dark Parallax */}
             <section className="relative py-32 overflow-hidden">
                 <div className="absolute inset-0 bg-kapribaden-purple-950" />
-                <motion.div 
+                <motion.div
                     className="absolute inset-0"
                     style={{ y: backgroundY }}
                 >
@@ -198,7 +200,7 @@ export default function Home() {
 
                     <AnimatedSection delay={0.4} className="mt-8">
                         <p className="text-gray-400 text-lg leading-relaxed">
-                            Satu-satunya Sabdo Tinulis dengan huruf Jawa (Honocoroko), 
+                            Satu-satunya Sabdo Tinulis dengan huruf Jawa (Honocoroko),
                             menjadi dasar berdirinya Paguyuban Penghayat Kapribaden.
                         </p>
                     </AnimatedSection>
@@ -262,7 +264,7 @@ export default function Home() {
             {/* Panca Gaib Section */}
             <section className="relative py-24 bg-white overflow-hidden">
                 <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-kapribaden-purple-600 via-kapribaden-gold-500 to-kapribaden-purple-600" />
-                
+
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <AnimatedSection className="text-center mb-16">
                         <h2 className="text-4xl md:text-5xl font-bold text-kapribaden-purple-900 mb-6">
