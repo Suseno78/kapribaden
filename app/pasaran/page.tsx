@@ -192,31 +192,6 @@ export default function PasaranPage() {
                             </tbody>
                         </table>
                     </div>
-
-                    {/* Hitungan untuk Orang Hamil */}
-                    <div className="border border-gray-400 p-3 bg-blue-50">
-                        <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK ORANG HAMIL (NGRUJAKI)</h4>
-                        <p className="text-xs mb-1">i = Wiji</p>
-                        <p className="text-xs mb-1">2 = Dadi</p>
-                        <p className="text-xs mb-1">3 = Lutung</p>
-                        <p className="text-xs mb-2 font-bold">KEL:</p>
-                        <p className="text-xs">Paling baik kalau ngrujakl jatuh pada DADI kemudian WIJI (WUJUD), misalnya Rabu Pon neptunya 14 lalu kita urutkan sesuai nomor diatas sehingga jatuh pada nomor 2 yang berarti DADI</p>
-                    </div>
-
-                    {/* Hitungan untuk Maling */}
-                    <div className="border border-gray-400 p-3 bg-yellow-50">
-                        <h4 className="font-bold text-sm mb-2">HITUNGAN UNTUK MALING</h4>
-                        <p className="text-xs mb-1">1 = Ketong</p>
-                        <p className="text-xs mb-1">2 = Rojo</p>
-                        <p className="text-xs">3 = Pati</p>
-                    </div>
-
-                    {/* Sesaji */}
-                    <div className="border border-gray-400 p-3 bg-gray-50">
-                        <h4 className="font-bold text-sm mb-2 text-center">SESAJI</h4>
-                        <p className="text-xs">Cuwek anyar, lawe, rokok cerutu, kembang takiran, endok, kolopo karo gulo jawa.</p>
-                        <p className="text-xs mt-2">Sate sak sujen, ngllon, suri, golek&apos;an, gedang raja siji, jajan, beras sak jumput, buceng citik.</p>
-                    </div>
                 </div>
             </div>
 

@@ -9,7 +9,7 @@ export default function AlbumPage() {
     // Data statis dengan judul dan deskripsi per foto
     const albumSections = [
         {
-            title: "Sowan Dimakam Kanjeng Romo",
+            title: "Ziarah Dimakam Kanjeng Romo Tahun 1983",
             photos: [
                 {
                     src: "/images/lawas/1-1.jpg",
@@ -29,7 +29,7 @@ export default function AlbumPage() {
             ],
         },
         {
-            title: "Rombongan Kadhang Se-Indonesia Dari Rumah Bawah (Pasar Sejiwan) Menuju Makam Kanjeng Romo Untuk Melakukan Prosesi Pembangunan makam Kanjeng Romo",
+            title: "Rombongan Kadhang Se-Indonesia Dari Rumah Bawah (Pasar Sejiwan) Menuju Makam Kanjeng Romo Untuk Melakukan Prosesi Pembangunan makam Kanjeng Romo Tahun 1983",
             photos: [
                 {
                     src: "/images/lawas/2-1.jpg",
@@ -64,7 +64,7 @@ export default function AlbumPage() {
             ],
         },
         {
-            title: "Proses Pembongkaran dan Peletakan Batu Pertama Pembangunan Makam Kanjeng Romo",
+            title: "Proses Pembongkaran dan Peletakan Batu Pertama Pembangunan Makam Kanjeng Romo Tahun 1983",
             photos: [
                 {
                     src: "/images/lawas/3-1.jpg",
@@ -381,8 +381,8 @@ export default function AlbumPage() {
                                     {/* Overlay on hover - Menggunakan Judul & Deskripsi FOTO masing-masing */}
                                     <div className="absolute inset-0 bg-gradient-to-t from-green-900/90 via-green-900/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
                                         <div className="p-6 text-white w-full">
-                                            <h3 className="font-bold text-lg mb-1">{photo.title}</h3>
-                                            <p className="text-sm text-gray-200">{photo.description}</p>
+                                            <h3 className="font-bold text-lg mb-1 text-white">{photo.title}</h3>
+                                            <p className="text-sm text-white">{photo.description}</p>
                                         </div>
                                     </div>
                                 </div>
