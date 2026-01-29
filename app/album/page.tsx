@@ -34,32 +34,32 @@ export default function AlbumPage() {
                 {
                     src: "/images/lawas/2-1.jpg",
                     title: "Tahun 1983",
-                    description: "Diskusi rutin antar anggota"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/2-2.jpg",
                     title: "Tahun 1983",
-                    description: "Membersihkan lingkungan sekitar"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/2-3.jpg",
                     title: "Tahun 1983",
-                    description: "Diskusi rutin antar anggota"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/2-4.jpg",
                     title: "Tahun 1983",
-                    description: "Membersihkan lingkungan sekitar"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/2-5.jpg",
                     title: "Tahun 1983",
-                    description: "Diskusi rutin antar anggota"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/2-6.jpg",
                     title: "Tahun 1983",
-                    description: "Membersihkan lingkungan sekitar"
+                    description: "Menuju ke tempat pembangunan makam Kanjeng Romo"
                 },
             ],
         },
@@ -69,12 +69,12 @@ export default function AlbumPage() {
                 {
                     src: "/images/lawas/3-1.jpg",
                     title: "Tahun 1983",
-                    description: "Diskusi rutin antar anggota"
+                    description: "Proses Pembongkaran dan Peletakan Batu Pertama Pembangunan Makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/3-2.jpg",
                     title: "Tahun 1983",
-                    description: "Membersihkan lingkungan sekitar"
+                    description: "Suasana di area pemakaman"
                 },
                 {
                     src: "/images/lawas/3-3.jpg",
@@ -89,7 +89,7 @@ export default function AlbumPage() {
                 {
                     src: "/images/lawas/3-5.jpg",
                     title: "Tahun 1983",
-                    description: "Suasana di area pemakaman"
+                    description: "Proses pembongkaran makam Kanjeng Romo"
                 },
                 {
                     src: "/images/lawas/3-6.jpg",
@@ -104,7 +104,7 @@ export default function AlbumPage() {
                 {
                     src: "/images/lawas/3-8.jpg",
                     title: "Tahun 1983",
-                    description: "Membersihkan lingkungan sekitar"
+                    description: "Proses pembongkaran makam Kanjeng Romo"
                 },
             ],
         },
@@ -179,47 +179,47 @@ export default function AlbumPage() {
                 {
                     src: "/images/2022/2-1.jpg",
                     title: "Tahun 2022",
-                    description: "Tampak depan pendopo kegiatan"
+                    description: "Suasana di dalam makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2022/2-2.jpg",
                     title: "Tahun 2022",
-                    description: "Area taman dan parkir"
+                    description: "Suasana di dalam makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2022/2-3.jpg",
                     title: "Tahun 2022",
-                    description: "Suasana di dalam ruangan"
+                    description: "Suasana di dalam makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2022/2-4.jpg",
                     title: "Tahun 2022",
-                    description: "Area taman dan parkir"
+                    description: "Suasana di dalam makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2022/2-5.jpg",
                     title: "Tahun 2022",
-                    description: "Suasana di dalam ruangan"
+                    description: "Suasana di dalam makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2022/2-6.jpg",
                     title: "Tahun 2022",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2022/2-7.jpg",
                     title: "Tahun 2022",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2022/2-8.jpg",
                     title: "Tahun 2022",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2022/2-9.jpg",
                     title: "Tahun 2022",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
             ],
         },
@@ -229,32 +229,32 @@ export default function AlbumPage() {
                 {
                     src: "/images/2023/3-1.jpg",
                     title: "Tahun 2023",
-                    description: "Tampak depan pendopo kegiatan"
+                    description: "Foto bersama para Kadhang Tuban di makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2023/3-2.jpg",
                     title: "Tahun 2023",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para Kadhang Tuban di makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2023/3-3.jpg",
                     title: "Tahun 2023",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para Kadhang Tuban di makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2023/3-4.jpg",
                     title: "Tahun 2023",
-                    description: "Area taman dan parkir"
+                    description: "Bersama sesepuh di rumah atas Kanjeng Romo"
                 },
                 {
                     src: "/images/2023/3-5.jpg",
                     title: "Tahun 2023",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama dengan sesepuh di rumah atas Kanjeng Romo"
                 },
                 {
                     src: "/images/2023/3-6.jpg",
                     title: "Tahun 2023",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para Kadhang Tuban di makam Kanjeng Romo"
                 },
             ],
         },
@@ -264,32 +264,32 @@ export default function AlbumPage() {
                 {
                     src: "/images/2024/4-1.jpg",
                     title: "Tahun 2024",
-                    description: "Tampak depan pendopo kegiatan"
+                    description: "Suasana di taman"
                 },
                 {
                     src: "/images/2024/4-2.jpg",
                     title: "Tahun 2024",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para kadhang Tuban di makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2024/4-3.jpg",
                     title: "Tahun 2024",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban di makam Kanjeng Romo"
                 },
                 {
                     src: "/images/2024/4-4.jpg",
                     title: "Tahun 2024",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2024/4-5.jpg",
                     title: "Tahun 2024",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2024/4-6.jpg",
                     title: "Tahun 2024",
-                    description: "Suasana di dalam ruangan"
+                    description: "Suasana di dalam ruangan Kraton Jogja"
                 },
             ],
         },
@@ -299,12 +299,12 @@ export default function AlbumPage() {
                 {
                     src: "/images/2025/5-1.jpg",
                     title: "Tahun 2025",
-                    description: "Tampak depan pendopo kegiatan"
+                    description: "Momen hening cipta dan doa"
                 },
                 {
                     src: "/images/2025/5-2.jpg",
                     title: "Tahun 2025",
-                    description: "Area taman dan parkir"
+                    description: "Suasana di dalam ruangan"
                 },
                 {
                     src: "/images/2025/5-3.jpg",
@@ -314,32 +314,32 @@ export default function AlbumPage() {
                 {
                     src: "/images/2025/5-4.jpg",
                     title: "Tahun 2025",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2025/5-5.jpg",
                     title: "Tahun 2025",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2025/5-6.jpg",
                     title: "Tahun 2025",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2025/5-7.jpg",
                     title: "Tahun 2025",
-                    description: "Area taman dan parkir"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2025/5-8.jpg",
                     title: "Tahun 2025",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2025/5-9.jpg",
                     title: "Tahun 2025",
-                    description: "Suasana di dalam ruangan"
+                    description: "Kadhang Tuban"
                 },
             ],
         },
@@ -351,6 +351,38 @@ export default function AlbumPage() {
             <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto text-lg">
                 Dokumentasi kegiatan dan momen penting Paguyuban Penghayat Kapribaden
             </p>
+
+            {/* Hero Highlight Section */}
+            <section className="mb-20">
+                <h2 className="text-2xl md:text-3xl font-bold text-center text-green-800 mb-8">
+                    Galeri Foto Romo Herucokro Semono
+                </h2>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 h-[400px] md:h-[600px]">
+                    {[
+                        "/images/romo1.jpg",
+                        "/images/romo2.jpeg",
+                        "/images/romo3.png",
+                        "/images/romo4.jpeg",
+                        "/images/romo5.png",
+                    ].map((src, idx) => (
+                        <div
+                            key={idx}
+                            className={`relative rounded-2xl overflow-hidden shadow-lg border border-green-100 group ${idx === 0 ? 'col-span-2 row-span-2' : 'col-span-1 row-span-1'
+                                }`}
+                        >
+                            <Image
+                                src={src}
+                                alt={`Highlight Romo ${idx + 1}`}
+                                fill
+                                className="object-cover object-top transition-transform duration-700 group-hover:scale-105"
+                                sizes={idx === 0 ? "(max-width: 768px) 100vw, 50vw" : "(max-width: 768px) 50vw, 25vw"}
+                                priority={idx === 0}
+                            />
+                            <div className="absolute inset-0 bg-gradient-to-t from-green-900/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                        </div>
+                    ))}
+                </div>
+            </section>
 
             <div className="space-y-16">
                 {albumSections.map((section, index) => (

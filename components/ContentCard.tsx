@@ -42,7 +42,7 @@ export default function ContentCard({
         >
             {/* Top Gradient Line */}
             <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-kapribaden-purple-600 via-kapribaden-gold-500 to-kapribaden-purple-600" />
-            
+
             {/* Content */}
             <div className="relative z-10">
                 {children}
@@ -64,12 +64,14 @@ export function FeatureCard({
     icon,
     title,
     description,
-    index = 0
+    index = 0,
+    className = ''
 }: {
     icon?: React.ReactNode
     title: string
     description: string
     index?: number
+    className?: string
 }) {
     return (
         <motion.div
@@ -78,18 +80,18 @@ export function FeatureCard({
             viewport={{ once: true, margin: "-50px" }}
             transition={{ duration: 0.6, delay: index * 0.1 }}
             whileHover={{ y: -10, scale: 1.02 }}
-            className="relative group"
+            className={`relative group h-full ${className}`}
         >
             <div className="absolute inset-0 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-gold-600 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 blur-xl" />
-            
-            <div className="relative bg-white rounded-2xl p-8 shadow-xl border border-gray-100 group-hover:border-kapribaden-purple-200 transition-colors duration-300">
+
+            <div className="relative bg-white rounded-2xl p-8 shadow-xl border border-gray-100 group-hover:border-kapribaden-purple-200 transition-colors duration-300 h-full flex flex-col">
                 {/* Number Badge */}
-                <div className="absolute -top-4 -right-4 w-12 h-12 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-purple-800 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg">
+                <div className="absolute -top-4 -right-4 w-12 h-12 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-purple-800 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg z-10">
                     {index + 1}
                 </div>
 
                 {icon && (
-                    <div className="w-16 h-16 bg-gradient-to-br from-kapribaden-purple-100 to-kapribaden-gold-100 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                    <div className="w-16 h-16 bg-gradient-to-br from-kapribaden-purple-100 to-kapribaden-gold-100 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300 flex-shrink-0">
                         {icon}
                     </div>
                 )}
@@ -97,8 +99,8 @@ export function FeatureCard({
                 <h3 className="text-2xl font-bold text-kapribaden-purple-800 mb-3 group-hover:text-kapribaden-purple-600 transition-colors">
                     {title}
                 </h3>
-                
-                <p className="text-gray-600 leading-relaxed">
+
+                <p className="text-gray-600 leading-relaxed whitespace-pre-line flex-grow">
                     {description}
                 </p>
 
@@ -129,12 +131,12 @@ export function QuoteCard({
             <div className="absolute -top-6 left-8 text-8xl text-kapribaden-gold-300 font-serif leading-none">
                 &quot;
             </div>
-            
+
             <div className="bg-gradient-to-br from-kapribaden-purple-900 to-kapribaden-purple-950 rounded-2xl p-10 pt-12 shadow-2xl">
                 <p className="text-2xl md:text-3xl text-white font-light leading-relaxed mb-6 italic">
                     {quote}
                 </p>
-                
+
                 {(author || date) && (
                     <div className="flex items-center justify-between border-t border-kapribaden-purple-700 pt-6">
                         {author && (

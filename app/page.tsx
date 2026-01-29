@@ -44,11 +44,44 @@ export default function Home() {
     const backgroundY = useTransform(scrollYProgress, [0, 1], ['0%', '30%'])
 
     const pancaGaib = [
-        { title: 'Kunci', desc: 'Sarana untuk mengenal Hidup dalam diri kita', icon: '🔑' },
-        { title: 'Paweling', desc: 'Manunggal dengan Yang Maha Esa', icon: '🕊️' },
-        { title: 'Mijil', desc: 'Menyatukan Raga dengan Hidup', icon: '🌟' },
-        { title: 'Singkir', desc: 'Menipiskan "AKU" dalam diri', icon: '🌊' },
-        { title: 'Asmo', desc: 'Nama untuk Hidup kita', icon: '✨' },
+        {
+            title: 'Kunci',
+            desc: `Untuk Pria:
+Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci, Sirolah Datolah Sipatolah, Kulo sejatine Satriyo, Nyuwun wicaksono, Nyuwun panguasa, Kangge tumindake Satriyo sejati, Kulo nyuwun kangge hanyirnaake tumindak ingkang luput.
+
+
+Untuk Wanita:
+Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci, Sirolah Datolah Sipatolah, Kulo sejatine wanito, Nyuwun wicaksono, Nyuwun panguasa, Kangge tumindake wanito sejati, Kulo nyuwun kangge hanyirnaake tumindak ingkang luput`,
+            icon: '🔑',
+            className: 'lg:col-span-2'
+        },
+        {
+            title: 'Patrap',
+            desc: 'Siji siji loro loro telu telunono, Siji sakti loro dadi telu pandhito, Siji wahayu loro gratrahino telu rejeki',
+            icon: '🕊️'
+        },
+        {
+            title: 'Mijil',
+            desc: '.........(Asmo Sejati) Jenengsiro mijilo panjengan ingsung kangungan kerso arso .........',
+            icon: '🌟'
+        },
+        {
+            title: 'Singkir',
+            desc: `Untuk Pria:
+Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci, Sirolah Datolah Sipatolah, Kulo sejatine Satriyo, Ananiro ana ningsun, Wujudiro wujud ingsun, Siro sirno mati dening Satriyo sejati, Ketiban iduku putih sirno layu mati dening .... (Asma sejati).
+
+
+Untuk Wanita:
+Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci, Sirolah Datolah Sipatolah, Kulo sejatine Wanito, Ananiro ana ningsun, Wujudiro wujud ingsun, Siro sirno mati dening Wanito sejati, Ketiban iduku putih sirno layu mati dening .... (Asma sejati)`,
+            icon: '🌊',
+            className: 'lg:col-span-2'
+        },
+        {
+            title: 'Asmo',
+            desc: 'Raganingsung bade sowan dateng ngarsanipun Kanjeng Romo Herucokro Semono sejati sak perlu nyuwun tambahe Pangestune mugi dados putro romo sejati sageto ngemban-ngemban dawuh-dawuhipun Kanjeng Romo Herucokro Semono sejati',
+            icon: '✨',
+            className: 'lg:col-start-2'
+        },
     ]
 
     const lakuPangumbah = [
@@ -185,12 +218,23 @@ export default function Home() {
 
                 <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                     <AnimatedSection>
-                        <h2 className="text-3xl md:text-4xl font-bold text-white mb-8">
+                        <h2 className="text-3xl md:text-4xl font-bold text-white mb-12">
                             Sabdho Tinulis
                         </h2>
                     </AnimatedSection>
 
-                    <AnimatedSection delay={0.2}>
+                    <AnimatedSection delay={0.2} className="mb-8">
+                        <div className="relative w-full max-w-2xl mx-auto h-96 rounded-xl overflow-hidden shadow-2xl bg-white/5 backdrop-blur-sm">
+                            <Image
+                                src="/images/romo (3).jpeg"
+                                alt="Sabdho Tinulis Romo Herucokro Semono"
+                                fill
+                                className="object-contain p-4"
+                            />
+                        </div>
+                    </AnimatedSection>
+
+                    <AnimatedSection delay={0.4} className="mt-12">
                         <QuoteCard
                             quote="ROMO Mangestoni, Putro-Putro Kudu Ngakoni Putro ROMO"
                             author="Romo Herucokro Semono"
@@ -198,8 +242,8 @@ export default function Home() {
                         />
                     </AnimatedSection>
 
-                    <AnimatedSection delay={0.4} className="mt-8">
-                        <p className="text-gray-400 text-lg leading-relaxed">
+                    <AnimatedSection delay={0.6} className="mt-8">
+                        <p className="text-gray-300 text-lg leading-relaxed max-w-3xl mx-auto">
                             Satu-satunya Sabdo Tinulis dengan huruf Jawa (Honocoroko),
                             menjadi dasar berdirinya Paguyuban Penghayat Kapribaden.
                         </p>
@@ -275,9 +319,9 @@ export default function Home() {
                         </p>
                     </AnimatedSection>
 
-                    <StaggerContainer className="grid md:grid-cols-2 lg:grid-cols-3 gap-8" staggerDelay={0.1}>
+                    <StaggerContainer className="grid md:grid-cols-2 lg:grid-cols-3 gap-12" staggerDelay={0.1}>
                         {pancaGaib.map((item, index) => (
-                            <StaggerItem key={item.title}>
+                            <StaggerItem key={item.title} className={`${item.className || ''} h-full`}>
                                 <FeatureCard
                                     icon={<span className="text-4xl">{item.icon}</span>}
                                     title={item.title}
