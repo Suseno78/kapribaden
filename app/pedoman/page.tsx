@@ -382,12 +382,13 @@ export default function PedomanPage() {
             <div className="content-section">
                 <h2>SAJEN KELAHIRAN</h2>
                 <div className="prose">
-                    <div className="mb-6 relative h-64 md:h-96 w-full rounded-xl overflow-hidden shadow-lg">
+                    <div className="mb-6 relative w-full aspect-[4/3] rounded-xl overflow-hidden shadow-lg bg-white">
                         <Image
-                            src="/images/pedoman/sajen_kelahiran.png"
+                            src="/images/sajen (2).png"
                             alt="Sajen Kelahiran"
                             fill
-                            className="object-contain bg-gray-50"
+                            className="object-contain"
+                            sizes="(max-width: 768px) 100vw, 800px"
                         />
                     </div>
 
@@ -438,12 +439,13 @@ export default function PedomanPage() {
                 <h2>SAJEN SATRIYO</h2>
                 <div className="prose">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-                        <div className="relative h-64 w-full rounded-xl overflow-hidden shadow-lg">
+                        <div className="relative w-full aspect-[4/3] rounded-xl overflow-hidden shadow-lg bg-white">
                             <Image
-                                src="/images/pedoman/sajen_satriyo.png"
+                                src="/images/sajen (1).png"
                                 alt="Sajen Satriyo"
                                 fill
-                                className="object-contain bg-gray-50"
+                                className="object-contain"
+                                sizes="(max-width: 768px) 100vw, 400px"
                             />
                         </div>
                         <div className="flex items-center justify-center bg-gray-50 rounded-xl p-4 border border-gray-200">

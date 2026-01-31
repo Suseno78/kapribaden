@@ -357,7 +357,7 @@ export default function AlbumPage() {
                 <h2 className="text-2xl md:text-3xl font-bold text-center text-green-800 mb-8">
                     Galeri Foto Romo Herucokro Semono
                 </h2>
-                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 h-[400px] md:h-[600px]">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4 auto-rows-[minmax(180px,auto)] md:h-[600px]">
                     {[
                         "/images/romo1.jpg",
                         "/images/romo2.jpeg",
