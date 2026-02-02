@@ -19,8 +19,36 @@ export default function PedomanPage() {
                     <p className="text-lg">
                         Disini saya akan menjelaskan tentang pedoman tapi tidak mutlak dilaksanakan atau dilakukan karena kita harus melihat situasi dan
                         kondisi di lapangan serta dawuh Kanjeng Romo yang kita terima. Pedoman ini dibuat berdasarkan pengalaman, dawuh dari para sesepuh
-                        serta dawuh dari Kanjeng Romo sendiri.
+                        serta dawuh dari Kanjeng Romo sendiri. <b>Bagi yang belum berpengalaman dan belum bisa, untuk meminta bantuan dan pendampingan dari sesepuh karena jika salah dalam menangani bisa berakibat fatal bagi diri sendiri.</b>
                     </p>
+                </div>
+            </div>
+
+            {/* Peringatan Penting */}
+            <div className="content-section">
+                <div className="bg-red-50 border-l-4 border-red-600 p-6 rounded-r-lg shadow-lg">
+                    <div className="flex items-start">
+                        <div className="flex-shrink-0">
+                            <svg className="h-8 w-8 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+                            </svg>
+                        </div>
+                        <div className="ml-4">
+                            <h3 className="text-xl font-bold text-red-800 mb-3">⚠️ PERINGATAN PENTING</h3>
+                            <div className="text-red-700 space-y-2">
+                                <p className="font-semibold text-lg">
+                                    Pedoman ini HANYA untuk para kadhang yang sudah berpengalaman dan telah mendapat bimbingan dari sesepuh!
+                                </p>
+                                <p>
+                                    <strong>DILARANG KERAS</strong> mencoba praktik-praktik dalam pedoman ini tanpa pendampingan dari sesepuh yang berpengalaman.
+                                    Kesalahan dalam pelaksanaan dapat berakibat <strong className="text-red-900">FATAL</strong> bagi diri sendiri maupun orang lain.
+                                </p>
+                                <p className="italic">
+                                    Jika Anda belum berpengalaman dan ingin belajar, silakan hubungi sesepuh atau pengurus Paguyuban untuk mendapatkan bimbingan yang tepat.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

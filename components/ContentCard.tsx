@@ -65,13 +65,15 @@ export function FeatureCard({
     title,
     description,
     index = 0,
-    className = ''
+    className = '',
+    hideNumber = false
 }: {
     icon?: React.ReactNode
     title: string
     description: string
     index?: number
     className?: string
+    hideNumber?: boolean
 }) {
     return (
         <motion.div
@@ -86,9 +88,11 @@ export function FeatureCard({
 
             <div className="relative bg-white rounded-2xl p-8 shadow-xl border border-gray-100 group-hover:border-kapribaden-purple-200 transition-colors duration-300 h-full flex flex-col">
                 {/* Number Badge */}
-                <div className="absolute -top-4 -right-4 w-12 h-12 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-purple-800 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg z-10">
-                    {index + 1}
-                </div>
+                {!hideNumber && (
+                    <div className="absolute -top-4 -right-4 w-12 h-12 bg-gradient-to-br from-kapribaden-purple-600 to-kapribaden-purple-800 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg z-10">
+                        {index + 1}
+                    </div>
+                )}
 
                 {icon && (
                     <div className="w-16 h-16 bg-gradient-to-br from-kapribaden-purple-100 to-kapribaden-gold-100 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300 flex-shrink-0">

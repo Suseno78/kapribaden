@@ -78,9 +78,13 @@ Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci,
         },
         {
             title: 'Asmo',
-            desc: 'Raganingsung bade sowan dateng ngarsanipun Kanjeng Romo Herucokro Semono sejati sak perlu nyuwun tambahe Pangestune mugi dados putro romo sejati sageto ngemban-ngemban dawuh-dawuhipun Kanjeng Romo Herucokro Semono sejati',
+            desc: 'Diparingi kaliyan sesepuh',
             icon: '✨',
-            className: 'lg:col-start-2'
+        },
+        {
+            title: 'Doa Sowan Sesudah Mijil',
+            desc: 'Raganingsung bade sowan dateng ngarsanipun Kanjeng Romo Herucokro Semono sejati sak perlu nyuwun tambahe Pangestune mugi dados putro romo sejati sageto ngemban-ngemban dawuh-dawuhipun Kanjeng Romo Herucokro Semono sejati',
+            hideNumber: true,
         },
     ]
 
@@ -323,10 +327,11 @@ Gusti Ingkang Moho Suci, Kulo nyuwun pangapuro dumateng Gusti Ingkang Moho Suci,
                         {pancaGaib.map((item, index) => (
                             <StaggerItem key={item.title} className={`${item.className || ''} h-full`}>
                                 <FeatureCard
-                                    icon={<span className="text-4xl">{item.icon}</span>}
+                                    icon={item.icon ? <span className="text-4xl">{item.icon}</span> : undefined}
                                     title={item.title}
                                     description={item.desc}
                                     index={index}
+                                    hideNumber={item.hideNumber}
                                 />
                             </StaggerItem>
                         ))}
