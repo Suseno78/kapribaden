@@ -349,17 +349,17 @@ export default function AlbumPage() {
                 {
                     src: "/images/2026/6-1.jpg",
                     title: "Tahun 2026",
-                    description: "Momen hening cipta dan doa"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2026/6-2.jpg",
                     title: "Tahun 2026",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2026/6-3.jpg",
                     title: "Tahun 2026",
-                    description: "Suasana di dalam ruangan"
+                    description: "Foto bersama para kadhang Tuban"
                 },
                 {
                     src: "/images/2026/6-4.jpg",

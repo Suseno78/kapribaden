@@ -186,7 +186,7 @@ export default function Footer() {
                 >
                     <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <p className="text-gray-500 text-sm text-center md:text-left">
-                            &copy; {currentYear} SenzDev.
+                            &copy; {currentYear} CakSenzzz.
                             <span className="text-kapribaden-gold-500 ml-1">Semua hak dilindungi.</span>
                         </p>
                         <div className="flex items-center space-x-2 text-sm text-gray-500">
