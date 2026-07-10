@@ -343,6 +343,56 @@ export default function AlbumPage() {
                 },
             ],
         },
+        {
+            title: "Ziarah Tahun 2026",
+            photos: [
+                {
+                    src: "/images/2026/6-1.jpg",
+                    title: "Tahun 2026",
+                    description: "Momen hening cipta dan doa"
+                },
+                {
+                    src: "/images/2026/6-2.jpg",
+                    title: "Tahun 2026",
+                    description: "Suasana di dalam ruangan"
+                },
+                {
+                    src: "/images/2026/6-3.jpg",
+                    title: "Tahun 2026",
+                    description: "Suasana di dalam ruangan"
+                },
+                {
+                    src: "/images/2026/6-4.jpg",
+                    title: "Tahun 2026",
+                    description: "Foto bersama para kadhang Tuban"
+                },
+                {
+                    src: "/images/2026/6-5.jpg",
+                    title: "Tahun 2026",
+                    description: "Foto bersama para kadhang Tuban"
+                },
+                {
+                    src: "/images/2026/6-6.jpg",
+                    title: "Tahun 2026",
+                    description: "Foto bersama para kadhang Tuban"
+                },
+                {
+                    src: "/images/2026/6-7.jpg",
+                    title: "Tahun 2026",
+                    description: "Foto bersama para kadhang Tuban"
+                },
+                {
+                    src: "/images/2026/6-8.jpg",
+                    title: "Tahun 2026",
+                    description: "Foto bersama para kadhang Tuban"
+                },
+                {
+                    src: "/images/2026/6-9.jpg",
+                    title: "Tahun 2026",
+                    description: "Kadhang Tuban"
+                },
+            ],
+        },
     ];
 
     return (
